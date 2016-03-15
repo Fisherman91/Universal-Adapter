@@ -40,7 +40,7 @@ public class RecyclerActivity extends AppCompatActivity {
                 viewHolder.setOnlickListener(R.id.id_num, new View.OnClickListener() {//监听事件
                     @Override
                     public void onClick(View v) {
-
+                        //..这里可以处理Item子View的点击事件
                     }
                 });
 
